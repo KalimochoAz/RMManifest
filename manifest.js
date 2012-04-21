@@ -78,61 +78,6 @@
         "label":"Cyanogenmod9",
         "url":"http://developer.clockworkmod.com/downloads/2958/1779/update-cm-9.0.0-RC0-NS-signed.no.v1.p0.zip",
         "incremental":1779
-    },
-    {
-        "name":"KERNEL CyanogenMod v1",
-        "device":"maguro",
-        "summary":"Kernel update to 3.0.16",
-        "product":"",
-        "modversion":"bf9d0de4daf592c3fedc13624b80072a",
-        "developerIdProp":null,
-        "label":"GalaxyNexus/Kernel",
-        "url":"http://developer.clockworkmod.com/downloads/2958/1713/kernel.cyano.RELEASE.v1.10.db526ca0.zip",
-        "incremental":1713
-    },
-    {
-        "name":"Cyanogenmod 9 Alfa 20.p1",
-        "device":"crespo",
-        "summary":"ICS Cyanogenmod 9 alfa 20 p1",
-        "product":"",
-        "modversion":"d80ddc5af9676e9acf487db17a839976",
-        "developerIdProp":"cyanogenmod",
-        "label":"Cyanogenmod9/Alfa",
-        "url":"http://developer.clockworkmod.com/downloads/2958/1712/cm_crespo-ota-eng.kalimochoaz.a20.p1.zip",
-        "incremental":1712
-    },
-    {
-        "name":"Cyanogenmod 9 Alfa 20",
-        "device":"crespo",
-        "summary":"ICS Cyanogenmod 9 alfa 20",
-        "product":"",
-        "modversion":"7233fb2e5e4805055b5029017ea8394b",
-        "developerIdProp":"cyanogenmod",
-        "label":"Cyanogenmod9/Alfa",
-        "url":"http://developer.clockworkmod.com/downloads/2958/1707/cm_crespo-ota-eng.kalimochoaz.a20.zip",
-        "incremental":1707
-    },
-    {
-        "name":"Cyanogenmod 9 Alfa 18",
-        "device":"crespo",
-        "summary":"ICS Cyanogenmod 9 alfa 16",
-        "product":"",
-        "modversion":"CyanogenMod-9.0.0-RC0-NS-KANG",
-        "developerIdProp":"cyanogenmod",
-        "label":"Cyanogenmod9/Alfa",
-        "url":"http://developer.clockworkmod.com/downloads/2958/1642/cm_crespo-ota-eng.kalimochoaz.a18.p1.zip",
-        "incremental":1642
-    },
-    {
-        "name":"Cyanogenmod 9 Alfa 16",
-        "device":"crespo",
-        "summary":"ICS Cyanogenmod 9 alfa 16",
-        "product":"",
-        "modversion":"CyanogenMod-9.0.0-RC0-NS-KANG",
-        "developerIdProp":"cyanogenmod",
-        "label":"Cyanogenmod9/Alfa",
-        "url":"http://developer.clockworkmod.com/downloads/2958/1603/cm_crespo-ota-eng.kalimochoaz.a16.zip",
-        "incremental":1603
     }
     ]
 }
