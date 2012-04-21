@@ -3,6 +3,17 @@
     "homepage": "http://www.cyanogenmod.com/",
     "donate":"http://bit.ly/DonateBEER",
     "roms":[{
+        "name":"Cyanogenmod 9 v7.0",
+        "device":"crespo",
+        "summary":"ICS Cyanogenmod 9 Version 7.0",
+        "product":null,
+        "modversion":"2170",
+        "developerIdProp":"KalimochoAz",
+        "label":"Cyanogenmod9",
+        "url":"http://kalimaz.me/update-cm-9.0.0-RC0-crespo-signed.no.v7.p0.R.zip",
+        "incremental":5070
+    },
+    {
         "name":"Cyanogenmod 9 v4.0",
         "device":"crespo",
         "summary":"ICS Cyanogenmod 9 Version 4.0",
