@@ -4,6 +4,17 @@
     "donate":"http://bit.ly/DonateBEER",
     "roms":[{
         "name":"Cyanogenmod 9 v7.0",
+        "device":"maguro",
+        "summary":"ICS Cyanogenmod 9 Version 7.0 (just for test proposal version)",
+        "product":null,
+        "modversion":"2170",
+        "developerIdProp":"KalimochoAz",
+        "label":"Cyanogenmod9",
+        "url":"http://kalimaz.me/update-cm-9.0.0-RC0-maguro-signed.v7.p0.zip",
+        "incremental":5070
+    },
+    {
+        "name":"Cyanogenmod 9 v7.0",
         "device":"crespo",
         "summary":"ICS Cyanogenmod 9 Version 7.0",
         "product":null,
