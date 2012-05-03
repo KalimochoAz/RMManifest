@@ -3,6 +3,17 @@
     "homepage": "http://www.cyanogenmod.com/",
     "donate":"http://bit.ly/DonateBEER",
     "roms":[{
+        "name":"Cyanogenmod 9 v8.2",
+        "device":"maguro",
+        "summary":"ICS Cyanogenmod 9 Version 8.2",
+        "product":null,
+        "modversion":"2182",
+        "developerIdProp":"KalimochoAz",
+        "label":"Cyanogenmod9",
+        "url":"http://kalimaz.me/update-cm-9.0.0-RC0-maguro-FEATURED-signed.v8.p2.zip",
+        "incremental":5082
+    },
+    {
         "name":"Cyanogenmod 9 v8.1",
         "device":"maguro",
         "summary":"ICS Cyanogenmod 9 Version 8.1",
